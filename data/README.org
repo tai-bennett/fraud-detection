@@ -1,0 +1,8 @@
+#+TITLE: Data
+* Download
+The base training data comes from this [[https://www.kaggle.com/c/ieee-fraud-detection/data][Kaggle competition]]. To download the dataset run the
+shell command
+#+BEGIN: bash
+kaggle competitions download -c ieee-fraud-detection
+#+END:
+In order to do this, you'll need to set up a kaggle account, create an API key and save it in ~/.config/kaggle/kaggle.json

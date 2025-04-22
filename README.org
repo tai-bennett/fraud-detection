@@ -1,8 +1,2 @@
 #+TITLE: fraud-detection
 This repo contains code for a fraud detection model for the Math 599 course at the University of Arizona.
-* Dataset
-The base training data comes from this [[https://www.kaggle.com/c/ieee-fraud-detection/data][Kaggle competition]]. To download the dataset run the
-shell command
-#+BEGIN: bash
-kaggle competitions download -c ieee-fraud-detection
-#+END:
