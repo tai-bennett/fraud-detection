@@ -6,3 +6,6 @@ shell command
 kaggle competitions download -c ieee-fraud-detection
 #+END:
 In order to do this, you'll need to set up a kaggle account, create an API key and save it in ~/.config/kaggle/kaggle.json
+
+* Other Data
+Other data can be found [[https://github.com/amazon-science/fraud-dataset-benchmark?tab=readme-ov-file#data-sources][here]].
