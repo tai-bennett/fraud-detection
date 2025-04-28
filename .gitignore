@@ -7,3 +7,7 @@
 __pycache__/
 
 dev-log.org
+
+*.pdf
+
+/dtb/
