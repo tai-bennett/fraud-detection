@@ -1,2 +1,12 @@
 #+TITLE: fraud-detection
 This repo contains code for a fraud detection model for the Math 599 course at the University of Arizona.
+
+* Introduction
+Industries are eager to apply modern (data hungery) deep learning technology to
+their data. However, real world data is often messy, corrupted or missing and methods
+to rememdy this issue have been left out of the spotlight. This short study compares
+several methods from simple imputation to deep learning approaches for handling missing
+data in the context of fraud detection. In particular, we start with gradient boosted
+decision trees (xgboost) since it is commonly used in industry and can handle missing
+data gracefully. Compared to this baseline, we compare deep models with simple imputation
+(replacement with mean and mode) with a PENN-like architecture [[https://arxiv.org/abs/2504.15388][See here]]. 
