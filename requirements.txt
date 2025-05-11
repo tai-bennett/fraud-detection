@@ -1,5 +1,8 @@
 numpy
 pandas
 seaborn
-sklearn
-pdmarima
+scikit-learn
+imbalanced-learn
+kaggle
+xgboost
+jupyter

@@ -1,0 +1,78 @@
+% Created 2025-05-04 Sun 07:45
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage{minted}
+\usepackage[margin=1in]{geometry}
+\author{Duncan Bennett}
+\date{\today}
+\title{Development Log}
+\hypersetup{
+ pdfauthor={Duncan Bennett},
+ pdftitle={Development Log},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 28.1 (Org mode 9.5.4)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+This document contains notes, todos, references and resources used in the
+development of this repo. It should be in the .gitignore file.
+
+\section*{XGBoost}
+\label{sec:orgbea5820}
+\url{https://xgboost.readthedocs.io/en/latest/python/sklearn\_estimator.html}
+\section*{PCA Preprocessing}
+\label{sec:org44b1785}
+\href{https://safjan.com/before-pca/}{Reference}
+\begin{itemize}
+\item handle missing values
+\begin{itemize}
+\item remove variable if too many missing values
+\item replace NaN with mean/median (or some other technique) if a good
+proportion of data is there
+\item Standardize to mean 0, variance 1
+\item Apply PCA and take most of the variance
+\end{itemize}
+\end{itemize}
+\section*{\textit{<2025-04-28 Mon> } Some reference papers}
+\label{sec:orgffa50cd}
+\begin{itemize}
+\item \href{https://www.matec-conferences.org/articles/matecconf/pdf/2020/05/matecconf\_cscns2020\_05009.pdf}{PCA + ARIMA}
+\item \href{https://nixustechnologies.com/anomaly-detection-with-arima-model-using-python/}{Anomoly detection with ARIMA}
+\end{itemize}
+\section*{{\bfseries\sffamily TODO} \textit{<2025-04-25 Fri>}Learn AWS}
+\label{sec:orgdd5ada6}
+Learn AWS to be able to run this code on a virtual machine/cloud instance
+and, in particular, use a GPU to train the model. This will be especially
+useful when using ViT and Transformers in general.
+\subsection*{{\bfseries\sffamily DONE} \textit{<2025-04-25 Fri>}Sign up for AWS}
+\label{sec:org5120248}
+\subsection*{{\bfseries\sffamily TODO} \textit{<2025-04-25 Fri>}Test run a machine}
+\label{sec:org3c22179}
+Outline the process for cloning, downloading data and running python code
+on a machine. Possible automate this into one script.
+
+
+\section*{{\bfseries\sffamily TODO} \textit{<2025-04-25 Fri> } EDA with credit card fraud data}
+\label{sec:org4c8308d}
+\begin{itemize}
+\item class imbalance
+\item naive dimension reduction?
+\item missing data
+\item how to handle missing data form "identity.csv"?
+\end{itemize}
+\end{document}

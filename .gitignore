@@ -2,6 +2,7 @@
 /data/processed_data
 /models
 /venv/
+/notebooks/images
 
 .ipynb_checkpoints/
 __pycache__/
