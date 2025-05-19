@@ -20,7 +20,7 @@ def build_preprocessor(numeric_cols, categorical_cols):
 
     num_transformer = Pipeline([
         ('drop_nan_cols', DropHighNaNColumns(threshold=0.75)),
-    #    ('scaler', StandardScaler())
+        ('scaler', StandardScaler())
     ])
 
     preprocessor = ColumnTransformer([
