@@ -1,0 +1,41 @@
+{
+  "exp_name": "example_exp_0",
+  "agent": "FraudNetAgent",
+  "mode": "train",
+
+  "mask_path": "./data/processed_data/mask_train_transaction_data.csv",
+  "y_path": "./data/processed_data/Y_train_transaction_data.csv",
+  "X_imputed_path": "./data/processed_data/impute_X_train_transaction_data.csv",
+
+  "cuda": true,
+  "gpu_device": 0,
+  "seed": 1337,
+
+  "hidden_dim":50,
+
+  "some_model_attribute": 0,
+
+  "batch_size": 64,
+
+  "learning_rate": 0.0002,
+  "weight_decay": 0,
+  "beta1": 0.5,
+  "beta2": 0.999,
+
+  "max_epoch": 20,
+
+  "validate_every": 2,
+
+  "checkpoint_dir": ".",
+  "checkpoint_file": "checkpoint.pth.tar",
+
+  "cross_entropy_type": "weighted",
+
+  "data_loader": "ExampleDataLoader",
+  "data_loader_workers": 2,
+  "pin_memory": true,
+  "async_loading": true,
+
+  "data_mode": "imgs",
+  "data_folder": "./data/example"
+}

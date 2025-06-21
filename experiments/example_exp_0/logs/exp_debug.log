@@ -1,0 +1,204 @@
+[INFO] - 2025-05-22 17:53:21,551 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 17:53:21,551 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 17:53:21,551 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 17:55:00,373 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 17:55:00,373 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 17:55:00,374 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 17:57:46,955 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 17:57:46,955 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 17:57:46,955 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 17:59:42,082 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 17:59:42,082 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 17:59:42,082 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 17:59:47,452 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 17:59:47,453 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 17:59:47,453 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 18:00:12,626 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 18:00:12,626 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 18:00:12,626 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 18:12:09,184 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 18:12:09,184 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 18:12:09,184 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 18:44:28,848 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 18:44:28,858 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 18:44:28,858 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 18:44:30,805 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:62
+[INFO] - 2025-05-22 18:45:02,980 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 18:45:02,980 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 18:45:02,980 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 18:45:04,492 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:62
+[INFO] - 2025-05-22 20:01:47,425 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-22 20:01:47,425 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-22 20:01:47,425 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-22 20:01:47,425 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:65
+[INFO] - 2025-05-24 15:37:38,513 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 15:37:38,513 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 15:37:38,513 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 15:39:42,713 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 15:39:42,713 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 15:39:42,713 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 15:40:31,551 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 15:40:31,551 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 15:40:31,551 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 15:43:27,758 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 15:43:27,759 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 15:43:27,759 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 15:43:46,275 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:68
+[INFO] - 2025-05-24 18:43:13,604 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 18:43:13,604 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 18:43:13,604 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 18:43:48,967 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 18:43:48,967 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 18:43:48,967 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 18:45:00,491 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 18:45:00,491 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 18:45:00,491 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 18:45:46,083 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 18:45:46,083 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 18:45:46,083 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 18:55:07,513 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 18:55:07,513 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 18:55:07,513 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 18:56:58,363 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 18:56:58,363 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 18:56:58,363 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 18:57:46,887 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 18:57:46,887 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 18:57:46,887 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 18:58:44,556 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 18:58:44,556 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 18:58:44,556 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 18:58:48,186 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 18:58:48,186 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 18:58:48,186 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 19:15:11,570 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 19:15:11,570 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 19:15:11,571 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 19:15:29,587 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:70
+[INFO] - 2025-05-24 19:15:46,782 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-24 19:15:46,782 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-24 19:15:46,782 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-24 19:16:02,276 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:70
+[INFO] - 2025-05-25 10:02:38,938 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 10:02:38,938 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 10:02:38,938 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 10:03:25,179 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 10:03:25,179 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 10:03:25,179 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 10:03:42,202 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:66
+[INFO] - 2025-05-25 10:07:23,062 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 10:07:23,062 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 10:07:23,062 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 10:07:35,051 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 10:07:35,051 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 10:07:35,051 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 10:07:35,051 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:11
+[INFO] - 2025-05-25 10:07:51,558 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:66
+[INFO] - 2025-05-25 15:21:31,577 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:21:31,577 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:21:31,577 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:21:31,577 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:43
+[INFO] - 2025-05-25 15:24:04,887 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:24:04,887 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:24:04,887 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:24:04,887 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:26:44,893 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:26:44,894 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:26:44,894 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:26:44,894 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:44:52,642 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:44:52,642 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:44:52,642 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:44:52,642 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:45:28,542 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:45:28,542 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:45:28,542 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:45:28,542 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:46:15,009 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:46:15,010 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:46:15,010 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:46:15,010 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:46:57,868 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:46:57,868 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:46:57,869 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:46:57,869 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:48:50,560 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:48:50,560 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:48:50,560 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:48:50,560 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:49:37,805 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:49:37,805 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:49:37,805 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:49:37,805 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:52:14,995 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:52:14,995 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:52:14,995 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:52:14,995 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:54:58,528 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:54:58,528 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:54:58,528 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:54:58,528 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:55:59,028 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:55:59,028 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:55:59,028 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:55:59,028 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 15:56:19,539 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:74
+[INFO] - 2025-05-25 15:59:52,672 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 15:59:52,672 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 15:59:52,672 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 15:59:52,672 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 16:00:08,761 - Agent - : Building model... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:43
+[INFO] - 2025-05-25 16:00:08,763 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:75
+[INFO] - 2025-05-25 16:00:08,763 - Agent - : Running agent... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:102
+[INFO] - 2025-05-25 16:00:08,763 - Agent - : Finalizing... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:135
+[INFO] - 2025-05-25 16:01:55,420 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 16:01:55,420 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 16:01:55,420 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 16:01:55,420 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 16:02:11,855 - Agent - : Building model... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:43
+[INFO] - 2025-05-25 16:02:11,856 - Agent - : Define loss... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:47
+[INFO] - 2025-05-25 16:02:11,857 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:76
+[INFO] - 2025-05-25 16:02:11,857 - Agent - : Running agent... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:103
+[INFO] - 2025-05-25 16:02:11,857 - Agent - : Finalizing... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:136
+[INFO] - 2025-05-25 16:03:47,732 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 16:03:47,733 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 16:03:47,733 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 16:03:47,733 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 16:04:03,946 - Agent - : Building model... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:43
+[INFO] - 2025-05-25 16:04:03,947 - Agent - : Define loss... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:47
+[INFO] - 2025-05-25 16:04:03,947 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:76
+[INFO] - 2025-05-25 16:04:03,947 - Agent - : Running agent... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:103
+[INFO] - 2025-05-25 16:04:03,947 - Agent - : Finalizing... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:136
+[INFO] - 2025-05-25 16:13:31,473 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 16:13:31,473 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 16:13:31,473 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 16:13:31,473 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 16:13:47,378 - Agent - : Building model... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:43
+[INFO] - 2025-05-25 16:13:47,379 - Agent - : Define loss... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:47
+[INFO] - 2025-05-25 16:13:47,389 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:76
+[INFO] - 2025-05-25 16:14:08,654 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-05-25 16:14:08,654 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-05-25 16:14:08,654 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-05-25 16:14:08,654 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-05-25 16:14:23,462 - Agent - : Building model... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:43
+[INFO] - 2025-05-25 16:14:23,462 - Agent - : Define loss... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:47
+[INFO] - 2025-05-25 16:14:23,463 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:76
+[INFO] - 2025-05-25 16:14:23,463 - Agent - : Loading checkpoint 'experiments/example_exp_0/checkpoints/checkpoint.pth.tar' in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:89
+[INFO] - 2025-05-25 16:14:23,476 - Agent - : No checkpoint exists from 'experiments/example_exp_0/checkpoints/'. Skipping... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:100
+[INFO] - 2025-05-25 16:14:23,476 - Agent - : **First time to train** in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:101
+[INFO] - 2025-05-25 16:14:23,476 - Agent - : Running agent... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:117
+[INFO] - 2025-05-25 16:14:23,476 - Agent - : Finalizing... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:150
