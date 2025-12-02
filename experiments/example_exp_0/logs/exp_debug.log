@@ -202,3 +202,16 @@
 [INFO] - 2025-05-25 16:14:23,476 - Agent - : **First time to train** in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:101
 [INFO] - 2025-05-25 16:14:23,476 - Agent - : Running agent... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:117
 [INFO] - 2025-05-25 16:14:23,476 - Agent - : Finalizing... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:150
+[INFO] - 2025-12-02 15:38:55,128 - root - : Hi, This is root. in /home/db/gitProjects/fraud-detection/utils/config.py:92
+[INFO] - 2025-12-02 15:38:55,129 - root - : After the configurations are successfully processed and dirs are created. in /home/db/gitProjects/fraud-detection/utils/config.py:93
+[INFO] - 2025-12-02 15:38:55,129 - root - : The pipeline of the project will begin now. in /home/db/gitProjects/fraud-detection/utils/config.py:94
+[INFO] - 2025-12-02 15:38:55,129 - FraudDataLoader - : Loading DATA... in /home/db/gitProjects/fraud-detection/src/data/dataset.py:44
+[INFO] - 2025-12-02 15:39:19,845 - Agent - : Building model... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:43
+[INFO] - 2025-12-02 15:39:19,853 - Agent - : Define loss... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:47
+[INFO] - 2025-12-02 15:39:19,857 - Agent - : Program will run on *****CPU*****
+ in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:76
+[INFO] - 2025-12-02 15:39:19,858 - Agent - : Loading checkpoint 'experiments/example_exp_0/checkpoints/checkpoint.pth.tar' in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:89
+[INFO] - 2025-12-02 15:39:19,863 - Agent - : No checkpoint exists from 'experiments/example_exp_0/checkpoints/'. Skipping... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:100
+[INFO] - 2025-12-02 15:39:19,864 - Agent - : **First time to train** in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:101
+[INFO] - 2025-12-02 15:39:19,864 - Agent - : Running agent... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:117
+[INFO] - 2025-12-02 15:39:19,864 - Agent - : Finalizing... in /home/db/gitProjects/fraud-detection/agents/fraudnet.py:150
